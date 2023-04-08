@@ -7,6 +7,7 @@ demosite = "https://www.takuzen.me/hugo-theme-cactus/"
 tags = ["blog", "responsive", "clean"]
 features = ["mathjax", "customizable", "color"]
 min_version = "0.55"
+colortheme = "dark"
 
 # If the theme has a single author
 [author]
